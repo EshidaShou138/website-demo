@@ -1,0 +1,41 @@
+.menu
+{
+    width: 100%;
+    background-color: #3a3b3c;
+    padding: 8px;
+}
+
+a
+{
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    color: white
+}
+
+a:hover
+{
+    background-color: #18191a;
+    color: white;
+}
+
+#current
+{
+    background-color: #32aae1;
+}
+
+body
+{
+    text-align: center;
+}
+
+ul
+{
+    display:inline-block;
+    text-align: left;
+}
+
+div
+{
+    font-size: 17px;
+}
