@@ -39,3 +39,10 @@ div
 {
     font-size: 17px;
 }
+
+#page
+{
+    color: blue;
+    padding: 3px;
+    background-color:white;
+}
